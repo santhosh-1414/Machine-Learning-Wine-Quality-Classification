@@ -143,7 +143,7 @@ Blekinge Institute of Technology, Sweden
 **Ayyappa Mitta**  
 Computer Science  
 Blekinge Institute of Technology, Sweden
+
 =======
 # Machine-Learning-Wine-Quality-Classification
 Wine quality classification using Random Forest, KNN and SMOTE with Python.
->>>>>>> 90633d5b4b6afe0ca934f097c9a914cccd6d2c6c
